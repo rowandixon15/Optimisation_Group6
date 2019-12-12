@@ -7,6 +7,7 @@ This is the README for the Subsystem_2
 Main script 
 -------
 The boiler_fmincon_code.m MATLAB script should be run
+The CES file shows how the material was chosen, to determin the varible 'Resistivity'. 
 
 Execution time
 -------
