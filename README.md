@@ -11,7 +11,7 @@ The Matlab code should be run in order of:
 2. 'Subsystem_2/Current_Length_test_code.m'
 3. 'Subsystem_2/boiler_fmincon_code.m'
 4. 'Subsystem_2/radius_resistivity_test.m'
-5. 'Subsystem_3/subsystem_3GarethJones.m'
+5. 'Subsystem_3/Subsystem3_Gareth_Jones.m'
 6. 'Subsystem_4/subsystem_4.m'
 
 Alternatively, all scripts can be run at once by running the following script:
