@@ -1,9 +1,6 @@
 This is the README for the Subsystem_1
 =======
 
-*Example ... Please chage to suit your own system*
-
-
 Main script 
 -------
 Only the subsystem_1.m MATLAB script needs to be run, it will automatically bring up all graphs. If you want to find the results of the individual optimisation problems, those particular sections of the script should be run individually, once the whole script has been run.
