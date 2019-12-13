@@ -1,16 +1,13 @@
 This is the README for the System
 =======
 
-*Example ... Please chage to suit your own system*  
-
-
 Main script 
 -------
-The system.m MATLAB script should be run
+The system.m MATLAB script should be run, it should run all the individual scripts sequentially.
 
 Execution time
 -------
-The execution time is approximately XX seconds
+The execution time is approximately 1 second
 
 Dependencies
 -------
