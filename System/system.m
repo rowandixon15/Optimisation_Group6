@@ -1,18 +1,17 @@
 %% This is a MATLAB script ... 
 
-folder  = '...\Subsystem_1';
-run(folder,'subsystem_1.m'.name);
+cd ..\Subsystem_1
+run subsystem_1;
 
 
-folder  = '...\Subsystem_2';
-run(folder,'Current_Length_test_code.m'.name);
-run(folder,'boiler_fmincon_code.m'.name);
-run(folder,'radius_resistivity_test.m'.name);
+cd ..\Subsystem_2
+run Current_Length_test_code
+run boiler_fmincon_code
+run radius_resistivity_test
 
 
-folder  = '...\Subsystem_3';
-run(folder,'Subsystem3_Gareth_Jones.m'.name);
+cd ..\Subsystem_3
+run Subsystem3_Gareth_Jones
 
-folder  = '...\Subsystem_4';
-run(folder,'subsystem_4.m'.name);
-
+cd ..\Subsystem_4
+run subsystem_4
