@@ -11,7 +11,7 @@ run(folder,'radius_resistivity_test.m'.name);
 
 
 folder  = '...\Subsystem_3';
-run(folder,'Current_Length_test_code.m'.name);
+run(folder,'Subsystem3_Gareth_Jones.m'.name);
 
 folder  = '...\Subsystem_4';
 run(folder,'subsystem_4.m'.name);
