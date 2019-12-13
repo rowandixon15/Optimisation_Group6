@@ -1,6 +1,15 @@
 %% This is a MATLAB script ... 
 
-subsystem_1.m
-subsystem_2.m
-subsystem_3.m
-subsystem_4.m
+folder  = '...\Subsystem_1';
+run(folder,'subsystem_1.m'.name);
+
+
+folder  = '...\Subsystem_2';
+run(folder,'subsystem_2.m'.name);
+
+folder  = '...\Subsystem_3';
+run(folder,'subsystem_2.m'.name);
+
+folder  = '...\Subsystem_4';
+run(folder,'subsystem_4.m'.name);
+
